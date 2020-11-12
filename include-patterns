@@ -1,0 +1,8 @@
+src/
+# lines beginning with "#" are treated as comments and are ignored
+gradle/
+sql/
+# regexes must match the entire path, but can use python's regex syntax for
+# case-insensitive matching and other advanced options
+(?i).*\.(properties|java|kt|php|conf|ini|txt|y(a)?ml)$
+(.*/)?id_[rd]sa$
