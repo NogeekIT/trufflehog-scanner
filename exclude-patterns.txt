@@ -1,0 +1,7 @@
+(.*/)?\.classpath$
+.*\.jmx$
+(.*/)?test/(.*/)?resources/
+.*\.css$
+.*\.svg$
+.*yarn.lock$
+.*package-lock.json$
